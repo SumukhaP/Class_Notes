@@ -103,7 +103,7 @@ chmod 600 /home/ansibleadmin/.ssh/*
 ssh ansibleadmin@172.31.5.227
 ssh ansibleadmin@172.31.14.183
 
-chown -R devopsadmin:devopsadmin /etc/ansible
+chown -R devopsadmin:devopsadmin /etc/ansible (from root level)
 
 #chmod 600 /home/ansibleadmin/.ssh/*
 
